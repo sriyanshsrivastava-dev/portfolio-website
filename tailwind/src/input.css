@@ -1,4 +1,8 @@
 @import "tailwindcss";
 
-@source "../templates/**/*.html";
-@source "../**/templates/**/*.html";
+/*import theme css*/
+@import "./theme.css";
+
+/*templates path patterns*/
+@source "../../templates/**/*.html";
+@source "../../**/templates/**/*.html";
