@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#tailwind npm packages ignore
+tailwind/node_modules
